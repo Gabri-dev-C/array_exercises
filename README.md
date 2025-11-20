@@ -1,8 +1,6 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Difficulty](https://img.shields.io/badge/Difficulty-Beginner-yellow)
 ![Learning](https://img.shields.io/badge/Learning-C++-orange)
-![Learning](https://img.shields.io/badge/Array-C++-orange)
-
 
 # Array exercises
 
