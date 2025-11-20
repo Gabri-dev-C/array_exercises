@@ -1,9 +1,13 @@
+![License](https://img.shields.io/badge/License-MIT-green)
+![Difficulty](https://img.shields.io/badge/Difficulty-Beginner-yellow)
+![Learning](https://img.shields.io/badge/Learning-C++-orange)
+
+
 # Esercizi sui vettori in C++
 
 Questo è un piccolo programma che permette di eseguire varie azioni sui vettori di interi
 
 ## Funzionalità
-
 Il programma ha diverse opzioni incluse in un menù principale
 
 1. Caricamento manuale dei dati nel vettore.
@@ -22,13 +26,14 @@ Il programma ha diverse opzioni incluse in un menù principale
 14. Frequenza di ogni elemento.
 
 ## Come usare il programma
-
 1. Scarica la repository.
 2. Compila il file `main.cpp` usando un compilatore C++.
 3. Esegui il programma (`./esercizi` su Linux/Mac o `esercizi.exe` su Windows).
 4. Scegli il caricamento del vettore che preferisci.
 5. Scegli l'operazione da svolgere.
 
-## Licenza
+## Autore
+Gabriele Henriet - [GitHub](https://github.com/Gabri-dev-C)
 
+## Licenza
 Questo progetto è rilasciato sotto licenza [MIT](https://opensource.org/licenses/MIT).
